@@ -1,0 +1,41 @@
+.footer__logo__and__btn {
+    display: flex;
+    text-align: center;
+    justify-content: space-between;
+    padding-top: 3.8rem;
+}
+
+
+.footer__table {
+  background-color: $dark-green-color;
+  border-radius: 10px;
+  justify-content: space-between;
+  display: flex;
+  padding-right: 6.5rem;
+  padding-left: 6.5rem;
+  padding-top: 8rem;
+  padding-bottom: 8rem;
+}
+
+.footer__content {
+  color: $white-light-color;
+}
+
+.footer__title {
+  color: $white-light-color;
+  margin-bottom: 2.5rem;
+}
+
+.footer__description {
+  color: $white-light-color;
+  font-size: 18px;
+  font-style: normal;
+  font-weight: 500;
+  line-height: 28px; /* 155.556% */
+}
+
+.red-btn {
+    text-align: center;
+    margin-top: 5.5rem;
+
+}

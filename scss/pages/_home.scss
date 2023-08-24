@@ -1,0 +1,76 @@
+main {
+  flex-grow: 1;
+}
+
+.hero__title {
+  margin-top: 7rem;
+  justify-content: center;
+  text-align: center;
+}
+
+.hero__description {
+  margin-top: 2.3rem;
+  text-align: center;
+  justify-content: center;
+  color: $silver-color;
+  font-family: Plus Jakarta Sans;
+  font-size: 18px;
+  font-weight: 500;
+  line-height: 28px; /* 155.556% */
+}
+.hero__img {
+  margin-top: 8rem;
+  margin-bottom: 13.6rem;
+  display: flex;
+  gap: 2rem;
+  align-items: center;
+}
+
+.hero__img__app {
+  gap: 2.4rem;
+}
+.hero__img__apps {
+  margin-bottom: 2rem;
+  display: flex;
+  gap: 2.5rem;
+}
+
+.hero__img5 {
+  margin-bottom: 2rem;
+}
+
+.main__img__and__text {
+  display: flex;
+  align-items: center;
+  gap: 12.5rem;
+}
+
+.main__image {
+  width: 100%;
+  max-width: 410px;
+}
+
+.main__description {
+  margin-top: 3.4rem;
+  margin-bottom: 3.2rem;
+  color: $silver-color;
+  font-size: 18px;
+  font-weight: 500;
+  line-height: 28px; /* 155.556% */
+}
+
+.main__img {
+  display: flex;
+  text-align: center;
+  align-items: center;
+  gap: 3rem;
+  margin-right: auto;
+  margin-left: auto;
+  margin-bottom: 5.6rem;
+}
+
+.my__work {
+  text-align: center;
+  margin-top: 8.8rem;
+  margin-bottom: 5.6rem;
+}

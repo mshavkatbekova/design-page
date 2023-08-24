@@ -1,0 +1,26 @@
+.btn {
+  padding: 1.4rem 4.5rem;
+  font-size: 1.6rem;
+  font-weight: 700;
+  color: $white-light-color;
+  font-family: $main-ff;
+  line-height: 28px; /* 175% */
+  border: none;
+}
+
+.black-btn {
+  border-radius: 28px;
+  background-color: $dark-green-color;
+}
+
+.black-btn:hover{
+    background-color: $purple-light-color;
+}
+
+.red-btn{
+    border-radius: 28px;
+    background-color: $red-color;
+}
+.red-btn:hover{
+    background-color: $orange-color;
+}
